@@ -34,12 +34,12 @@ html, body {
   animation-timing-function: ease-in-out;
 }
 .gradient.a {
-  background: linear-gradient( 276deg, #8FCCD1, #E1A4AB 40%, #FFBB96 );
+  background: linear-gradient(to right top, #7e40ff, #755fff, #7377ff, #778bff, #839eff);
   animation-direction: alternate;
 }
 
 .gradient.b {
-  background: linear-gradient( 132deg, #8FCCD1, #E1A4AB 40%, #FFBB96 );
+  background-image: linear-gradient(to right top, #ffaf7c, #ff9a62, #ff844a, #ff6b35, #ff4c22);
   animation-direction: alternate-reverse;
 }
 
