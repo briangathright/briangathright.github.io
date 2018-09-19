@@ -20,7 +20,6 @@ html, body {
   margin: 0;
   border: 0;
   position: relative;
-  cursor: url("/cursor.gif"), auto;
 }
 
 .gradient {
